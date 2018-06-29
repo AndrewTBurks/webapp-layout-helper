@@ -1,0 +1,15 @@
+{
+  "name": "webapp-layout-helper",
+  "version": "0.0.1",
+  "description": "Testing building a custom HTML Layout within a page template",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Andrew Burks",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^11.11.0",
+    "yargs": "^11.0.0"
+  }
+}
